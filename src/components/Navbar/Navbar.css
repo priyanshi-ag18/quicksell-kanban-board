@@ -1,0 +1,29 @@
+.navbar {
+    background-color: whitesmoke;
+    padding: 12px;
+    display: flex;
+    
+  }
+
+  label {
+    color: black;
+    margin-right: 10px;
+  }
+  
+  .dropdown {
+    margin-right: 25px;
+  }
+  
+ 
+  
+  select {
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  option {
+    background-color: #fff;
+  }
+  

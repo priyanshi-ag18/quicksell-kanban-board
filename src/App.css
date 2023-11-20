@@ -1,0 +1,22 @@
+.main{
+  display: flex;
+  flex-direction: column;
+}
+
+.kanban-board{
+   display: flex;
+   flex-direction: row;
+}
+
+.navbar{
+  background-color: #fff;
+  display: flex; 
+  flex-direction: row;
+}
+
+.small-card{
+ width: 350px;
+}
+
+
+
