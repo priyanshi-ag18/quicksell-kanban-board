@@ -36,10 +36,6 @@ This React JS application is a dynamic and interactive Kanban board that interac
 
 The Kanban board is designed to be responsive and visually appealing, following the style provided in the screenshots. The user interface is intuitive, allowing seamless navigation and interaction.
 
-## Screenshots
-
-![Kanban Board](path/to/kanban-board-screenshot.png)
-
 ## Getting Started
 
 1. Clone the repository.
